@@ -1,5 +1,4 @@
 # 📊 Investment Strategy Comparator
-### Capstone Project — Alexia Le
 
 A comprehensive stock market analysis dashboard comparing **Dividend Stocks**, **Growth Stocks**, **High-Risk plays**, and **Day Trading** strategies over 3-month and 6-month periods using **real Yahoo Finance data (Mar 2025 → Mar 2026)**.
 
